@@ -18,7 +18,7 @@ class MainController extends Controller
         $article = new Articles();
         return view('article',['article'=> $article->all()]);
     }
-    public function article_check(Request $request){
+    public function articles_check(Request $request){
 
 
         $review = new articles();
