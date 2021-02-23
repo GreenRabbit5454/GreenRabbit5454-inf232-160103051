@@ -9,6 +9,6 @@
 </head>
 <body>
 <h1>HOME PAGE</h1>
-GO to http://mysite.ru/article
+GO to <a href="http://mysite.ru/article"></a>http://mysite.ru/article
 </body>
 </html>
